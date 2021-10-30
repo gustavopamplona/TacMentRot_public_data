@@ -1,0 +1,5 @@
+From UKBioBank - maxima peak coordinates - from Personode, but not individualized (check if there's interest)
+ROI01 - PCC - 8 -52 26
+ROI02 - mPFC - 0 60 -8
+ROI03 - L Ang - -42 -60 30
+ROI04 - R Ang - 52 -60 32

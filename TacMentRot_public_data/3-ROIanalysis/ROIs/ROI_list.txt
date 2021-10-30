@@ -1,0 +1,26 @@
+index		Label				Coordinates	Function (based on Neurosynth)					Wiki
+1	*c1	L SPL (similar to L IPS)	-18 -64  52	visual, location, spatial, saccade				visual attention, voluntary orientation of attention
+2	*c2	R SPL (similar to R IPS)	 28 -62  52	visual, saccades, attention network
+3	*c3	L MFG (or L premotor)		-26  -4  56	motor, execution, action, (motor imagery)			planning movement, preparation for the reach
+4	*c4	R MFG (or R premotor)		 30  -4  56	execution, motor, eye movements, (motor imagery)
+5	*c5	L IOG				-48 -70  -6	visual, motion, extrastriate, object recognition, v5
+6	*c6	R IOG				 44 -64 -16	visual, recognition, extrastriate, object recognition
+7	*c11	L IFG				-44  26  16
+8	*c7	R IFG				 52  10  24
+9	*c8	SMA				  4  14  48	working memory, attentional, task difficulty, load		initiation of internally generated as opposed to stimulus driven movement
+10	***	L ant insula			-32  26  -2	difficulty, memory retrieval					self-awareness, interoceptive awareness, motor control, self
+11	***	R ant insula			 42  20  -2	pain
+12	*c11	L MFG				-44  32  28
+13	*c12	R MFG				 40  36  22
+16	*c15	L fusiform gyrus		-30 -54 -12	visual, object, visual stream					Recognition, body recognition, 
+17	*c16	L lingual (but MR of hands): 	-15 -69  -1	early visual, movements						Processing vision, encoding of complex images
+18	**	L S1: 				-38 -37  57	motor, execution, movements, hand, finger, motor task		Tactile representation, 
+19	**	R S1: 				 39 -37  58
+20	**	L S2: 				-45 -16  14	stimulation, sensory, 						light touch, pain, visceral sensation, and tactile attention
+21	**	R S2: 				 49 -17  16	tactile, somatosensory, touch, sensations
+22	*** 	L SMG				-62 -26  32	somatosensory, pain, hands, motor, touch, mirror		interprets tactile sensory data and is involved in perception of space and limbs location, mirror
+23	*** 	R SMG 				 58 -32  40
+
+* 	Tomasino & Gremese 2016 (R is mirrored for lingual)
+** 	Bingel 2004 Neuroimage
+***	Neurosynth (term anterior insula, term supramarginal, term extrastriate)
